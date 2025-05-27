@@ -1,8 +1,3 @@
-Hi there! 👋 
-My name is imran, and I am an enthusiastic software developer currently diving deep into front-end development.
-With a strong foundation in programming and a passion for creating dynamic and visually appealing projects,
-I am on an exciting journey to become a Full Stack Developer.
-
 🚀 Skills and Experience
 - C# and .NET Development: I've built a console application focusing on university management systems, showcasing my problem-solving abilities and attention to detail. I also developed a partially completed e-commerce project named Pushineh, further enhancing my expertise in building practical software solutions.
 - Front-End Development: I actively work on projects using Tailwind CSS and JavaScript, creating responsive and interactive web applications.
