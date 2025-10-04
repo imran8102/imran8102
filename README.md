@@ -7,15 +7,6 @@
 - Associate Degree: Computer Science
 - Currently Pursuing: Bachelor's degree in Software Engineering
 
-🎮 Interests
-When I'm not coding, you'll find me immersed in the world of video games. Gaming fuels my creativity and provides a unique perspective on user experience, which I aim to incorporate into my projects.
-🌟 Projects
-I am currently working on:
-- Foodiland: A restaurant management application built with Tailwind CSS and JavaScript. Stay tuned for the detailed repository and documentation!
-
-📬 Let's Connect
-Feel free to reach out or explore my repositories to see my work and progress. Collaboration and feedback are always welcome!
-
 <!---
 imran8102/imran8102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
